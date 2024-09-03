@@ -1,0 +1,10 @@
+<apex:page showHeader="TRUE" sidebar="FALSE" LightningStylesheets="TRUE" controller="getFreeTrialUseGuideCDId">
+    <apex:form >
+        <apex:pageBlock >
+            If the content doesn't render below, the Guide is available as a File record and can be found <u><apex:outputLink onclick="window.open('/lightning/r/ContentDocument/{!UsageGuideContentDocumentID}/view');" ><font color="#001dff">here.</font></apex:outputLink></u>            
+        </apex:pageBlock>
+        
+        <apex:iframe src="https://docs.google.com/presentation/d/1_k_IWEqHsCX56nEWRXVI0dQsIiC8hSob2Oy42ovgV6I/" scrolling="false" height="800px" id="userGuideIframe"/>     
+    
+    </apex:form>
+</apex:page>
