@@ -6,7 +6,7 @@ aac4a509-4dbe-4f76-b544-af478bbdf6eb,Set Quantity for VirusScan Mac,false,#N/A,A
 609f61c4-3d9c-4808-bd7b-72d2bcdab2e4,NEW PRICE RULE 1,false,#N/A,All,#N/A,Before Calculate;On Calculate,#N/A,#N/A,Configurator
 d4cf4618-fbad-48ab-8976-fe969c8a9dc5,Set True Discretionary Discount %,false,#N/A,All,#N/A,After Calculate,98.0,#N/A,Calculator
 203f7fed-642e-4854-ac0f-1ab53ae51e46,Lookup Approval Level 3 [Discount],false,#N/A,All,#N/A,On Initialization,53.0,Approval_Threshold__c,Calculator
-f675d951-033e-49b5-b1f6-32eb30fc428e,Test,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Calculator
+f675d951-033e-49b5-b1f6-32eb30fc428e,Test,false,#N/A,Any,#N/A,On Calculate,#N/A,#N/A,Calculator
 fdf0e391-901e-4282-961a-83288f6937af,8/13,true,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Calculator
 eff7083f-cbd8-4794-9983-773af8da9ccd,Set VirusScan Device Count,false,111 AND (222 OR 333 OR 444),Custom,Save,#N/A,1.0,#N/A,Configurator
 8985e0a6-429b-4949-978d-e2b173fefdb9,Billing Frequency Approval,false,#N/A,Any,#N/A,On Initialization;On Calculate,20.0,#N/A,Calculator
