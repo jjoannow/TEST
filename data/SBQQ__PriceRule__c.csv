@@ -1,7 +1,7 @@
 Guid,Name,SBQQ__Active__c,SBQQ__AdvancedCondition__c,SBQQ__ConditionsMet__c,SBQQ__ConfiguratorEvaluationEvent__c,SBQQ__EvaluationEvent__c,SBQQ__EvaluationOrder__c,SBQQ__LookupObject__c,SBQQ__TargetObject__c
 559efa50-1c98-4ad9-b05e-c01100a81d24,Lookup Approval Level 1 [Discount],false,#N/A,All,#N/A,On Initialization,50.0,Approval_Threshold__c,Calculator
 131462e1-4194-436e-91a1-8321aeaffcc0,Training Price Rule - deactivate,false,#N/A,All,#N/A,Before Calculate,#N/A,#N/A,Calculator
-7e5ff315-63a5-4d64-a7ba-86de6a12b7ad,VC_TEST3,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Configurator
+7e5ff315-63a5-4d64-a7ba-86de6a12b7ad,VC_TEST3,true,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Configurator
 aac4a509-4dbe-4f76-b544-af478bbdf6eb,Set Quantity for VirusScan Mac,false,#N/A,All,Edit,Before Calculate,#N/A,#N/A,Configurator
 609f61c4-3d9c-4808-bd7b-72d2bcdab2e4,NEW PRICE RULE 1,false,#N/A,All,#N/A,Before Calculate;On Calculate,#N/A,#N/A,Configurator
 d4cf4618-fbad-48ab-8976-fe969c8a9dc5,Set True Discretionary Discount %,false,#N/A,All,#N/A,After Calculate,98.0,#N/A,Calculator
