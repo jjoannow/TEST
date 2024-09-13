@@ -87,3 +87,4 @@ ea18be9f-0051-461d-92ad-8528d1e478d2,VC_TEST2,false,#N/A,All,#N/A,On Calculate,#
 ce868037-2630-417d-b47a-ce3b5f7f15cb,Lookup Approval Level 2 [Discount],false,#N/A,All,#N/A,On Initialization,51.0,Approval_Threshold__c,Calculator
 1a77da17-d594-4adb-a14b-3d20c10c4f63,Billing Frequency Approval,false,#N/A,All,#N/A,On Initialization;On Calculate,20.0,#N/A,Calculator
 fa93ec9a-9e89-41be-8b48-46505e4460ce,Lookup Approval Level 2 [Discount],false,#N/A,All,#N/A,On Initialization,51.0,Approval_Threshold__c,Calculator
+7ef98e46-2514-4595-8551-509d4325b563,PR Dev SB,true,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Calculator
