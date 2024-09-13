@@ -25,7 +25,7 @@ f7747579-ff6f-4ca9-9e78-92e5fe257768,Calculate Tax at Order/Invoice,false,#N/A,A
 6daea88c-78f6-4d2a-9153-3c6201d7be48,Set Professional Services Role Rates,false,#N/A,All,#N/A,On Calculate,#N/A,Professional_Services_Rate__c,Calculator
 72a39279-b476-4ed2-8d9a-8e7779d2ec8e,Config - Set Device Count,false,#N/A,All,Edit,#N/A,99.0,#N/A,Configurator
 738ee6de-1cac-4d81-ac40-59c0dad563be,Set VirusScan Device Count,false,111 AND (222 OR 333 OR 444),Custom,Save,#N/A,1.0,#N/A,Configurator
-07ce8fad-aceb-4718-b3c2-84952073796d,Dev SB Price Rule,false,#N/A,Any,#N/A,On Calculate,#N/A,#N/A,Calculator
+07ce8fad-aceb-4718-b3c2-84952073796d,Dev SB Price Rule,true,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Configurator
 01305fec-661e-4728-8ed4-2acfa14bfdac,Auto Renewal Uplift of 3%,false,#N/A,All,#N/A,Before Calculate,#N/A,#N/A,Calculator
 46f4ccb7-0902-4fb4-9294-53cedabfc962,NEW PRICE RULE 5,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Configurator
 7ab8d4e9-df1c-49c1-9acf-f565e072a4ee,Config - Set Device Count,false,#N/A,All,Edit,#N/A,99.0,#N/A,Configurator
@@ -87,3 +87,4 @@ ea18be9f-0051-461d-92ad-8528d1e478d2,VC_TEST2,false,#N/A,All,#N/A,On Calculate,#
 ce868037-2630-417d-b47a-ce3b5f7f15cb,Lookup Approval Level 2 [Discount],false,#N/A,All,#N/A,On Initialization,51.0,Approval_Threshold__c,Calculator
 1a77da17-d594-4adb-a14b-3d20c10c4f63,Billing Frequency Approval,false,#N/A,All,#N/A,On Initialization;On Calculate,20.0,#N/A,Calculator
 fa93ec9a-9e89-41be-8b48-46505e4460ce,Lookup Approval Level 2 [Discount],false,#N/A,All,#N/A,On Initialization,51.0,Approval_Threshold__c,Calculator
+7ef98e46-2514-4595-8551-509d4325b563,PR Dev SB,true,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Calculator
