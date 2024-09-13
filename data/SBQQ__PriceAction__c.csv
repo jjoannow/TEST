@@ -69,3 +69,5 @@ f148f26d-f3ca-4593-b7f8-aa5bc816a1d3,f6ea57e7-f06d-4161-a1ff-d61e26ac5d6c,SBQQ__
 db6507c6-54a1-41fe-be05-7cefa4f131ea,2f27d747-15f4-43d7-90cb-3eb67494c05c,Discretionary_Discount_Percent__c,"100.0 * if( SBQQ__RegularPrice__c =0, 0, ( SBQQ__NetPrice__c -SBQQ__RegularPrice__c)/(-1.0 * SBQQ__RegularPrice__c))",#N/A,#N/A,#N/A,Quote Line,#N/A,#N/A
 efde1ec5-cf7c-48ff-8ebc-d1b535129826,d335e0dd-f6b0-4734-b65e-6b78db060361,SBQQ__Quantity__c,SBQQ__ProductOption__r.Protected_Devices__c,1.0,#N/A,#N/A,Product Option,#N/A,#N/A
 bf44091f-b446-4420-9afa-7d3e00f3c129,79fc9a47-8de1-49c4-9534-6e4b0e40a4ee,SBQQ__Quantity__c,Protected_Devices__c,1.0,#N/A,#N/A,Quote Line,#N/A,#N/A
+67a86207-71ab-44c9-a7a1-88b30b91fd16,07ce8fad-aceb-4718-b3c2-84952073796d,Markup (Amt),#N/A,#N/A,#N/A,#N/A,Quote Line,#N/A,100
+fe5594db-2b96-466c-a027-9b488b023b5e,7ef98e46-2514-4595-8551-509d4325b563,Markup (%),#N/A,#N/A,#N/A,#N/A,Quote,#N/A,5
