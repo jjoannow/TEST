@@ -92,3 +92,4 @@ cf3db1c4-2157-4dc2-af0a-6abff40cfd38,a118c2d0-a2e4-433a-a7f3-fe2995b8c40c,SBQQ__
 aba028e8-bba9-4081-8d82-6ee7d0c5b75c,07ce8fad-aceb-4718-b3c2-84952073796d,Handling_Fee__c,#N/A,Value,#N/A,#N/A,Quote,equals,#N/A,#N/A,15
 e0ed2ed9-b746-4bf9-a78e-c599b33e936b,cf58ebbc-7257-4e3d-bfd7-86edf75d7b04,SBQQ__Type__c,#N/A,Value,#N/A,111.0,Quote,equals,#N/A,#N/A,Quote
 a5fb2725-f851-4216-a4cc-b2addd5347d7,ce868037-2630-417d-b47a-ce3b5f7f15cb,SBQQ__Product__c,#N/A,Value,#N/A,#N/A,Quote Line,not equals,#N/A,#N/A,#N/A
+f49d8d4a-425d-40a3-baf1-617946e55c77,7ef98e46-2514-4595-8551-509d4325b563,Handling_Fee__c,#N/A,Value,#N/A,#N/A,Quote,equals,#N/A,#N/A,15
