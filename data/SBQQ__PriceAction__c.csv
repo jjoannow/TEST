@@ -71,3 +71,4 @@ efde1ec5-cf7c-48ff-8ebc-d1b535129826,d335e0dd-f6b0-4734-b65e-6b78db060361,SBQQ__
 bf44091f-b446-4420-9afa-7d3e00f3c129,79fc9a47-8de1-49c4-9534-6e4b0e40a4ee,SBQQ__Quantity__c,Protected_Devices__c,1.0,#N/A,#N/A,Quote Line,#N/A,#N/A
 67a86207-71ab-44c9-a7a1-88b30b91fd16,07ce8fad-aceb-4718-b3c2-84952073796d,Markup (Amt),#N/A,#N/A,#N/A,#N/A,Quote Line,#N/A,100
 fe5594db-2b96-466c-a027-9b488b023b5e,7ef98e46-2514-4595-8551-509d4325b563,Markup (%),#N/A,#N/A,#N/A,#N/A,Quote,#N/A,5
+6641262c-2ad8-4924-a7ec-e94bfcd74747,07ce8fad-aceb-4718-b3c2-84952073796d,Discount (%),#N/A,#N/A,#N/A,#N/A,Quote Line,#N/A,20
